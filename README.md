@@ -1,4 +1,4 @@
-# Canary Online - AI-Powered Learning Assistant
+# Canary OFFnline - AI-Powered Learning Assistant
 
 An intelligent, offline-capable learning assistant that helps students master topics through interactive conversations, voice recognition, and personalized study tools.
 ## 🎥 Demo Video
