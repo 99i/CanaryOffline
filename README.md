@@ -1,6 +1,10 @@
 # Canary Online - AI-Powered Learning Assistant
 
 An intelligent, offline-capable learning assistant that helps students master topics through interactive conversations, voice recognition, and personalized study tools.
+## 🎥 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/zFBgixQ0b0o/hqdefault.jpg)](https://www.youtube.com/watch?v=zFBgixQ0b0o)
+
 
 ## 🚀 Quick Start
 
@@ -78,13 +82,6 @@ ollama pull gemma3n:e2b-it-q4_K_M
 
 # Run application
 python main.py
-```
-
-### Testing
-
-```bash
-# Test model download only
-python test_model_download.py
 ```
 
 ## 📖 Usage
